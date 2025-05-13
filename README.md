@@ -1,4 +1,4 @@
-# 🏘️ Study on Rental Properties in Hyderabad (Makaan Dataset)
+# 🏘️ Study on Rental Properties in Hyderabad (Makaan Data)
 
 This project is a full data pipeline starting from **web scraping real-estate data** from [makaan.com](https://www.makaan.com) to performing **exploratory data analysis (EDA)** on rental properties in Hyderabad. The aim is to discover insights into rent prices, property types, and location-based trends to assist renters, buyers, and investors in making data-driven decisions.
 
